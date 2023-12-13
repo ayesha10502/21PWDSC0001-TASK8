@@ -1,0 +1,2 @@
+Hello, Welcome to the Web Programming Course 
+this is the content to be written to the file.
